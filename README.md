@@ -19,6 +19,6 @@ The final-year project focuses on developing an **Electrical Impedance Tomograph
 
 ## Acknowledgements
 
-- Prof. Shyamamali Mitra
+- Prof. Shyamali Mitra
 
 
